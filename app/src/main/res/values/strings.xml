@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="tab_text_1">RED</string>
+    <string name="tab_text_2">YELLOW</string>
+    <string name="tab_text_3">PURPLE</string>
+    <string name="tab_text_4">SCENE</string>
+    <string name="tab1">Красный букет</string>
+    <string name="tab2">Желтый букет</string>
+    <string name="tab3">Фиолетовый букет</string>
+    <string name="tab4">Oliver Scene</string>
+</resources>
